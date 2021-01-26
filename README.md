@@ -1,5 +1,5 @@
 # Binder Badge
-https://mybinder.org/v2/gh/eddide/mybinder_k-means/HEAD
+https://mybinder.org/v2/gh/eddide/Recomender-Systems/HEAD
 
 # Dokumentation zur Ausführung
 1. Aktivieren des Links zu Binder
