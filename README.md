@@ -38,3 +38,6 @@ Verwendung unterschiedlicher Visualisierungen um die Daten zu erforschen
 - Im Anschluss werden die Null-Werte für die DataFrames mit den Korrelationen zum Film gelöscht
 - Dann werden diejenigen Filme eliminiert, welche weniger als 100 Bewertungen haben
 Anschließend erhält man eine Liste mit Filmen, welche am besten zu dem Referenzfilm passen.
+
+## Ergebnisse
+- bei dem Beispiel mit Star Wars hat ein weiterer Film aus der Reihe die höchste Korrelation (Empire Strikes Back 74%). Das spricht für die Vorhersagekraft des Modells
